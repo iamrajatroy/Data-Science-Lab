@@ -4,7 +4,7 @@ Awesome repository for all my Data Science Experiments
 # About
 This respository consists of jupyter notebooks which follows a step by step process which is usually followed in a data science experiment.
 
-The goal is to adding new use-cases which solved a particular problem using Machine Learning using the data which is readily available on Kaggle or any other open source site.
+The goal is to adding new use-cases which solved a particular problem using Machine Learning and I will be using the data which is readily available on Kaggle or any other open source site.
 
 # Experiment 1 - Credit Payment Default
 ## Use Machine Learning to predict whether a customer will default in his/her next payment
