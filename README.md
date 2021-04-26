@@ -8,4 +8,5 @@ The goal is to adding new use-cases which solved a particular problem using Mach
 
 # Experiment 1 - Credit Payment Default
 ## Use Machine Learning to predict whether a customer will default in his/her next payment
-<a href="https://github.com/iamrajatroy/Data-Science-Lab/blob/main/notebook/Credit_Payment_Default_Notebook.ipynb">Notebook</a>
+Check out the code here - <a href="https://nbviewer.jupyter.org/github/iamrajatroy/Data-Science-Lab/blob/main/notebook/Credit_Payment_Default_Notebook.ipynb">Notebook</a>
+
