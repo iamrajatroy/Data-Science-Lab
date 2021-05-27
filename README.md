@@ -10,3 +10,7 @@ The goal is to adding new use-cases which solved a particular problem using Mach
 ## Use Machine Learning to predict whether a customer will default in his/her next payment
 Check out the code here - <a href="https://nbviewer.jupyter.org/github/iamrajatroy/Data-Science-Lab/blob/main/notebook/Credit_Payment_Default_Notebook.ipynb">Notebook</a>
 
+
+# Experiment 2 - Tensorflow Sequential API and Subclassing
+## A walkthrough code for comparing different approaches of model training with Tensorflow
+Check out the code here - <a href="https://nbviewer.jupyter.org/github/iamrajatroy/Data-Science-Lab/blob/main/notebook/Tensorflow%20Sequential%20API%20and%20Subclassing.ipynb">Notebook</a>
