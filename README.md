@@ -14,3 +14,8 @@ Check out the code here - <a href="https://nbviewer.jupyter.org/github/iamrajatr
 # Experiment 2 - Tensorflow Sequential API and Subclassing
 ## A walkthrough code for comparing different approaches of model training with Tensorflow
 Check out the code here - <a href="https://nbviewer.jupyter.org/github/iamrajatroy/Data-Science-Lab/blob/main/notebook/Tensorflow%20Sequential%20API%20and%20Subclassing.ipynb">Notebook</a>
+
+
+# Experiment 3 - Computer Vision Model Explanability
+## A walkthrough code for visualizing CNN localized maps in a given image using Tensorflow
+<a href="https://nbviewer.org/github/iamrajatroy/Data-Science-Lab/blob/main/notebook/Deeplearning_Grad_CAM.ipynb">Notebook</a>
