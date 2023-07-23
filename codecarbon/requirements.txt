@@ -1,0 +1,11 @@
+codecarbon
+dash
+dash-bootstrap-components
+arrow
+click
+fuzzywuzzy
+pandas
+psutil
+py-cpuinfo
+pynvml
+requests
